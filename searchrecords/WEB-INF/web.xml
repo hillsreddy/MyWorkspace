@@ -1,0 +1,1 @@
+<web-app>	<servlet>		<servlet-name>SearchEmpServlet</servlet-name>		<servlet-class>SearchEmpServlet</servlet-class>	</servlet>	<servlet-mapping>		<servlet-name>SearchEmpServlet</servlet-name>		<url-pattern>/ses</url-pattern>	</servlet-mapping></web-app>

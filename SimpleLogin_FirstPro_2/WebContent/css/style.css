@@ -1,0 +1,13 @@
+.loginButton{
+	background-image:url('../images/bg-button.png');
+	width:110px;
+}
+.bgimage{
+	background-image:url('../images/bgimage.jpg');
+	height: 560px;
+	
+	font-style: normal;
+	font-family: sans-serif;
+	font-size: large;
+}
+h1 {color:#00ff00;}

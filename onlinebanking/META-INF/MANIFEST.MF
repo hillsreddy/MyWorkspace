@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: onlinebanking
+Bundle-SymbolicName: onlinebanking
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: onlinebanking.jar,
+ apache-tomcat-7.0.2/lib/jsp-api.jar,
+ apache-tomcat-7.0.2/lib/servlet-api.jar
+Export-Package: g

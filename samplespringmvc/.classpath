@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/SOFTWARES/Dev tools/programs/spring-framework-3.2.4.RELEASE/spring jars/servlet-api.jar"/>
+	<classpathentry kind="lib" path="F:/SOFTWARES/Dev tools/programs/spring-framework-3.2.4.RELEASE/spring jars/standard.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/SOFTWARES/Dev tools/programs/spring-framework-3.2.4.RELEASE/spring jars/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/SOFTWARES/Dev tools/programs/spring-framework-3.2.4.RELEASE/spring jars/commons-logging.jar"/>
+	<classpathentry kind="lib" path="F:/SOFTWARES/Dev tools/programs/spring-framework-3.2.4.RELEASE/spring jars/jstl.jar"/>
+	<classpathentry kind="lib" path="F:/SOFTWARES/Dev tools/programs/spring-framework-3.2.4.RELEASE/spring jars/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="F:/SOFTWARES/Dev tools/programs/spring-framework-3.2.4.RELEASE/spring jars/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="F:/SOFTWARES/Dev tools/programs/spring-framework-3.2.4.RELEASE/spring jars/spring.jar"/>
+	<classpathentry kind="lib" path="F:/SOFTWARES/Dev tools/programs/spring-framework-3.2.4.RELEASE/spring jars/spring-webmvc.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
