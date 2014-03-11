@@ -20,10 +20,11 @@ public class DrawingApp {
 	 */
 	public static void main(String[] args) {
 		/*BeanFactory factory = new XmlBeanFactory(new FileSystemResource("spring.xml"));
-		Triangle triangle = (Triangle) factory.getBean("triangle");*/
+		Triangle triangle = (Triangle) factory.getBean("triangle");...*/
 		ApplicationContext context = new ClassPathXmlApplicationContext("spring.xml");
 		Triangle triangle = (Triangle) context.getBean("triangle");
 		triangle.draw();
+		System.out.println("testing..");
 	}
 
 }
