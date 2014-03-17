@@ -26,7 +26,7 @@ public class DrawingApp {
 		Circle circle = (Circle)context.getBean("circle");
 		circle.draw();
 		//Using Shape interface
-		Shape shape = (Shape) context.getBean("circle");//triangle or circle
+		Shape shape = (Shape) context.getBean("triangle");//triangle or circle
 		shape.draw();
 	}
 
