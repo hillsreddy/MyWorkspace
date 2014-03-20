@@ -44,7 +44,7 @@ public class ObjectSortingExample {
              
         //Sorting object using Comparator in Java
         Collections.sort(orders, new Order.OrderByAmount());
-        System.out.println("List of Order object sorted using Comparator - amount : " + orders);
+        System.out.println("List of Order object sorted using Comparator -amount : " + orders);
      
         // Comparator sorting Example - Sorting based on customer
         Collections.sort(orders, new Order.OrderByCustomer());
